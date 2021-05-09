@@ -1,8 +1,5 @@
 # firstApp
 MVC, MVP, MVVM design patterns examples in Android Studio using Java
-![image](https://github.com/Oscar0159/firstApp_MVC-MVP-MVVM/blob/main/0.png?raw=true)
-![image](https://github.com/Oscar0159/firstApp_MVC-MVP-MVVM/blob/main/5.png?raw=true)
-![image](https://github.com/Oscar0159/firstApp_MVC-MVP-MVVM/blob/main/-5.png?raw=true)
 
 - ## MVC Model View Controller
 Model: The classes containing data structure and logics
